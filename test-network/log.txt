@@ -1,0 +1,2 @@
+[34m2022-06-02 10:18:17.869 CST [chaincodeCmd] ClientWait -> INFO 001[0m txid [b4eddfbd2d2c2e33a67a70ec3034eb2b1814369993023b96747674d3859a51d7] committed with status (ENDORSEMENT_POLICY_FAILURE) at localhost:7051
+Error: transaction invalidated with status (ENDORSEMENT_POLICY_FAILURE)
